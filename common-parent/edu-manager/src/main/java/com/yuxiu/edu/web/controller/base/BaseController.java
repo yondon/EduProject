@@ -6,4 +6,6 @@ package com.yuxiu.edu.web.controller.base;
  * @Description:
  */
 public class BaseController {
+
+    ;
 }
